@@ -1,16 +1,15 @@
 # check_in
 
-A new Flutter project.
+Watch a video presentation in this folder.
 
-## Getting Started
+A Flutter project.
+Application that allows to take a photo of a place and add geolocation.
 
-This project is a starting point for a Flutter application.
+Data are saved on the device via SQLite database.
 
-A few resources to get you started if this is your first Flutter project:
+In app was used ImagePicker plugin in order to store images. 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Also google map API was used to utilise google maps in this application.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
