@@ -1,6 +1,7 @@
 # check_in
 
-Watch a video presentation in this folder.
+Watch a video presentation here
+https://github.com/tihorskiialeks/check_in_application/blob/master/video_presentation.mp4
 
 A Flutter project.
 Application that allows to take a photo of a place and add geolocation.
